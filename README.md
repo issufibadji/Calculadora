@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="JobsCalc" src=".github/jobscalc.png" width="100%">
+  <img alt="JobsCalc" src="jobscalc.png" width="100%">
 </p>
 
 <a id="funcionalidades"></a>
